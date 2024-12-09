@@ -42,5 +42,3 @@
 ### Section commentaire
 
 ![visuel1](./image/image3.png)
-
-
